@@ -1,4 +1,4 @@
-![image](https://github.com/nsysoeva/breweries_analysis/assets/152663360/6fc13fd7-958b-4db6-91d9-55194a0ddcc8)# Breweries Analysis
+# Breweries Analysis
 
 ### Problem Area
 
@@ -30,12 +30,29 @@ The solution will impact entrepreneurs in Bangalore, who are looking to open a b
 
 ### Dataset Description
 
-Dataset summarizes craft brewery beer data, spanning from January 2020 to December 2023. This is a synthetic database for educational purposes.  
+Dataset summarizes craft brewery beer data, spanning from January 2020 to December 2023. This is a synthetic database for educational purposes. The database is focused on Bangalore, India.
 
-Database has the following features:
-- 
-
-
+##### The database has the following features:
+- Batch_ID: A unique identifier assigned to each batch of beer produced.
+- Brew_Date: The date on which the beer batch was brewed.
+- Beer_Style: The style or type of beer, such as IPA, Stout, Lager, Ale, etc.
+- SKU: The packaging type in which the beer is sold, like Kegs, Bottles, Cans, or Pints.
+- Location: Areas in Bangalore.
+- Fermentation_Time: The duration of the fermentation process, measured in days.
+- Temperature: The average temperature (in Celsius) maintained during the brewing process.
+- pH_Level: The pH level of the beer, indicating its acidity or alkalinity.
+- Gravity: A measure of the density of the beer as compared to water, indicating the potential alcohol content.
+- Alcohol_Content: The percentage of alcohol by volume in the beer.
+- Bitterness: The bitterness of the beer, measured in International Bitterness Units (IBU).
+- Color: The color of the beer measured using the Standard Reference Method (SRM).
+- Ingredient_Ratio: Water : grain : hops.
+- Volume_Produced: The volume of beer produced in the batch, measured in liters.
+- Total_Sales: The total sales generated from the batch, expressed in 2023 USD.
+- Quality_Score: An overall quality score assigned to the beer batch, rated out of 10.
+- Brewhouse_Efficiency: The efficiency of the brewing process, expressed as a percentage.
+- Loss_During_Brewing: The percentage of volume loss during the brewing process.
+- Loss_During_Fermentation: The percentage of volume loss during the fermentation process.
+- Loss_During_Bottling: The percentage of volume loss during the bottling or kegging process.
 
 ### Sources
 https://mailchimp.com/resources/why-you-should-support-small-business/
