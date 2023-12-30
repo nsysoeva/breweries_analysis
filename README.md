@@ -14,13 +14,13 @@ In Canada, following the pandemic the craft breweries have had a tough time. B.C
 
 India is no exception when it comes to growing popularity of craft breweries. Bangalore is known as the "Silicon Valley of India" for its concentration of tech startups, but the city is also on the cutting-edge of the country's craft beer boom. Trends in Bangalore may be particularly worth watching, as the fierce local competition spurs an arms race of flavor, innovation and marketing. 
 
-Overall, globally, customers are demanding more unique tastes and the breweries continuing to reinvent themselves to fit to the tastes if the new demographics (incorporating non-beer offering and expanding non-alchogolic beer offerings).
+Overall, globally, customers are demanding more unique tastes and the breweries continuing to reinvent themselves to fit to the tastes if the new demographics (incorporating non-beer offering and expanding non-alcogolic beer offerings).
 
-Because the global craft beer industry has grown significantly in the recent dacade (resulting in more competition in the market), due to still significant post-pandemiuc challenges in the industry, and due to the fact that many start-ups fail in their first years of operations, it is key to carefully consider the economics before opening a brewery. Determining product pricing is one of the crucial components towards calculating its profitability. Our analysis will be focused on determining price per liter based on a variety of beer characteristics. With such analysis, we will help up incoming entepreneurs in their journey towards competitively pricing their beer offering on the market.
+Because the global craft beer industry has grown significantly in the recent dacade (resulting in more competition in the market), due to still significant post-pandemic challenges in the industry, and due to the fact that many start-ups fail in their first years of operations, it is key to carefully consider the economics before opening a brewery. Determining product pricing is one of the crucial components towards calculating its profitability. The analysis will be focused on determining price per liter based on a variety of beer characteristics. With such analysis, we will help up incoming entrepreneurs in their journey towards competitively pricing their beer offering on the market.
 
 ### Data Science Solution
 
-Data science solution for this problem is to build a few statistical models in order to determine per liter price of beer. I am planning on using linear regression, decision tree, random forest,and XGBoost. I would train the model on training data (80% of the total data) and will test it on testing data (the remaining 20%).
+Data science solution for this problem is to build a few statistical models in order to determine per liter price of beer. I am planning on using linear regression, decision tree, random forest, and XGBoost. I would train the model on training data (80% of the total data) and will test it on testing data (the remaining 20%).
 
 ### Solution Impact
 
@@ -32,7 +32,7 @@ The solution will impact entrepreneurs in Bangalore, who are looking to open a b
 
 Dataset summarizes craft brewery beer data, spanning from January 2020 to December 2023. This is a synthetic database for educational purposes. The database is focused on Bangalore, India.
 
-##### The database has the following features:
+#### The database has the following features:
 - Batch_ID: A unique identifier assigned to each batch of beer produced.
 - Brew_Date: The date on which the beer batch was brewed.
 - Beer_Style: The style or type of beer, such as IPA, Stout, Lager, Ale, etc.
@@ -53,6 +53,8 @@ Dataset summarizes craft brewery beer data, spanning from January 2020 to Decemb
 - Loss_During_Brewing: The percentage of volume loss during the brewing process.
 - Loss_During_Fermentation: The percentage of volume loss during the fermentation process.
 - Loss_During_Bottling: The percentage of volume loss during the bottling or kegging process.
+
+Overall, this dataset has 10 million rows and 20 columns. We will scale it down to 50 thousand rows.
 
 ### Sources
 https://mailchimp.com/resources/why-you-should-support-small-business/
