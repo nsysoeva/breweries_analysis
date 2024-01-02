@@ -10,7 +10,7 @@ Craft beer industry has gained popularity globally in recent years and is contin
 
 In the U.S. there were 1,813 craft breweries in operation in 2010. While the US industry has experienced rapid growth over the years, the 2020 sales were down 10% from 2019 due to the pandemic. In 2021, number of breweries in the US was over 9,000. While the industry overall has seen an encouraging trend, in the US, the sales in 2021/2022 were still lagging pre-pandemic levels, with brewery closings ticking up.  
 
-In Canada, following the pandemic the craft breweries have had a tough time. B.C.'s once-booming craft beer industry faces significant challenges: demographic changes, rising costs, and looming repayment deadlines for government pandemic loans. The industry association representing B.C. craft breweries says up to 15% of its members could face closure next year, if they don’t get extensions on pandemic support loans.
+In Canada, following the pandemic the craft breweries have had a tough time. B.C.'s once-booming craft beer industry faces significant challenges: demographic changes, rising costs, and looming repayment deadlines for government pandemic loans. The industry association representing B.C. craft breweries says up to 15% of its members could face closure next year (in 2024), if they don’t get extensions on pandemic support loans.
 
 India is no exception when it comes to growing popularity of craft breweries. Bangalore is known as the "Silicon Valley of India" for its concentration of tech startups, but the city is also on the cutting-edge of the country's craft beer boom. Trends in Bangalore may be particularly worth watching, as the fierce local competition spurs an arms race of flavor, innovation and marketing. 
 
